@@ -1,1 +1,0 @@
-print('Hello World from JS file!\n');
