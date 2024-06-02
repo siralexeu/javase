@@ -1,1 +1,1 @@
-seminariile si cursurile
+seminariile si cursurile mele
