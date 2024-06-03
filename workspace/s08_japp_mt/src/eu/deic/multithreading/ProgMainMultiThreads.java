@@ -19,7 +19,7 @@ class ThreadSynch extends Thread {
 		synchronized(objMutexLocker) {
 		for(int i = 0; i < 3; i++) {
 			
-			System.out.println("Thread = "+this.getName()+" ; a = "+a+" , b = "+b);
+			System.out.println("Thread = " + this.getName()+" ; a = " + a + " , b = " + b);
 			a++;
 			try {
 				sleep((int)Math.random() * 1000);
